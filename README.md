@@ -35,6 +35,6 @@ Runs with no arguments.
 
 3. Compressing script
 
---> `Packer.sh` is a funny script, that allows to compress given file as many times as your machine can stand! Useful for annoying your friends. Use wisely!
+--> `Packer.sh` is a funny script, that allows to compress given file as many times as your machine can stand!
 
 One Argument is obligatory. Represents name of file that has to be compressed. Second argument is optional, represents how many times file will be compressed.
