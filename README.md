@@ -5,6 +5,7 @@
 #### More detailed description of scripts:
 
 1. Set up Workspace folder- useful for C, C++ programming:
+
 --> `ReadMe.txt` provides usage information
 
 --> `install.sh` installation script
@@ -14,6 +15,7 @@
 --> `set_w_space.sh` Most important part, creates whole working space with necessary directories. 
 
 2. .shp file creator:
+
 --> `File_creator.sh` creates .txt files with the same names as .shp files.
 
 3. Compressing script
